@@ -51,7 +51,7 @@
                 </instance>
                 <instance type="Text" uid="8">
                     <properties>
-                        <text>Hello world</text>
+                        <text>Eita mulestia!</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
